@@ -14,5 +14,5 @@ a simple Linux Distro based on Alpine Linux ment to Be a Windows Replacement (St
 
 1) Adding Wine
 2) Adding DOS Terminal
-3) Adding icewm with Retro Windows Themes
+3) Adding icewm with Retro Windows Themes (icewm is installed but there are some issues with X11)
 4) Support for AARCH64 (for Raspberry PI)
