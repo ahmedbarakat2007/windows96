@@ -7,7 +7,7 @@ a simple Linux Distro based on Alpine Linux ment to Be a Windows Replacement (St
 # Building
 
 1) Download the Rootfs and extract it in the Root dir where you `git clone https://github.com/ahmedbarakat2007/windows96`
-2) Install QEMU, cpio, mkisofs, lz4
+2) Install QEMU, cpio, mkisofs, lz4, proot
 3) Run `./build.sh`
 
 # Future Plans
